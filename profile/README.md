@@ -1,4 +1,4 @@
-# Welcome to LaunchFight's Official GitHub!
+# Welcome to LaunchFight's official GitHub!
 LaunchFight is a Minecraft server that aims to improve the overall "Minecraft" experience by providing unique gamemodes that weren't seen before.
 
 The main name "LaunchFight," comes from the gamemode that allows you to launch around the map while fighting other people with unique weapons.
