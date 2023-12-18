@@ -10,3 +10,5 @@ We are currently planning to make:
  - More coming soon!
 
 `print('Hello LaunchFight!')`
+
+##### The LaunchFight team and it's services/products are managed by the team of https://auitenti.com.
