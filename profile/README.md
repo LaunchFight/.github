@@ -16,6 +16,7 @@ We are currently planning to make:
 
 **Here's some print line:**
 <br>
-`print('Hello LaunchFight!');`
+`print('Hello LaunchFight!');
+`
 ### <hr> Credits
 ###### The LaunchFight team and services/products are brought to you by the [Auitenti community](https://auitenti.com/). <br>You may also visit their [GitHub](https://github.com/auitenti).
