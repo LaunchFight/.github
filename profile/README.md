@@ -18,6 +18,6 @@ We are currently planning to make:
 <br>
 `print('Hello LaunchFight!');`
 <hr>
-<strong>The LaunchFight team and services/products are brought to you by the Auitenti community: https://auitenti.com</strong>
+<strong>The LaunchFight team and services/products are brought to you by the [Auitenti community](https://auitenti.com/).</strong>
 <br>
-<strong>You may visit their GitHub: https://github.com/auitenti</strong>
+<strong>You may also visit their [GitHub](https://github.com/auitenti/).</strong>
